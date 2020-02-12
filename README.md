@@ -56,13 +56,13 @@ Your code is not graded in this assignment, although it will be reviewed. You wi
 
 15. To view your web page, visit "http://username.github.io" (again, where username is your GitHub username). Your web page should be live!
 
-16. [Create an issue in the github-setup repository](https://github.com/b-ivey/github-setup/issues) with your full name and a link to your web page (http://username.github.io/) by the deadline. If you are unsure of what is required in the issue, [check the example](https://github.com/umiami-web-design/github-setup/issues/1) provided.
+16. [Create an issue in the github-setup repository](https://github.com/b-ivey/github-setup/issues) with your full name and a link to your web page (http://username.github.io/) by the deadline. If you are unsure of what is required in the issue, [check the example](https://github.com/b-ivey/github-setup/issues/2) provided.
 
   **TIP:** This is the part where most students who fail this assignment mess up. Make sure you:
 
   1. Submit an issue. This is how I know you have completed the assignment.
 
-  2. Are submitting the issue to *[this](https://github.com/umiami-web-design/github-setup/issues)* repository, *not* your username.github.io repository or any other repository.
+  2. Are submitting the issue to *[this](https://github.com/b-ivey/github-setup/issues)* repository, *not* your username.github.io repository or any other repository.
 
   Simply put, if you do not see my name as as Issue No. 1, you are not in the correct place. Re-read the instructions above and re-submit your issue.
 
