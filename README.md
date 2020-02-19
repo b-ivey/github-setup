@@ -17,7 +17,7 @@ This exercise can be completed in about an hour (and that is a very conservative
 
 ### Grading
 
-**This is an all-or-nothing assignment. There is no partial credit.** You either get it right or you don't. You either submit it on time or you don't.
+<!--**This is an all-or-nothing assignment. There is no partial credit.** You either get it right or you don't. You either submit it on time or you don't. -->
 
 Your code is not graded in this assignment, although it will be reviewed. You will receive feedback if there are glaring errors.
 
